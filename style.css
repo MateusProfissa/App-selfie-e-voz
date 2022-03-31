@@ -1,0 +1,19 @@
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid gray;
+}
+#imagem {
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox {
+    width: 300px;
+}
+#botão {
+    width: 40%;
+}
+body {
+    background-color: black;
+    color: white;
+}
